@@ -1,0 +1,3105 @@
+
+   5 Populations
+
+Neighbor-Joining/UPGMA method version 3.697
+
+Data set # 1:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +---SARS-CoV  
+  ! 
+  !  +-PCoV      
+  1--2 
+  !  ! +Bat       
+  !  +-3 
+  !    +SARS-CoV2 
+  ! 
+  +-----------------------------------------MERS-CoV  
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          SARS-CoV        0.11047
+   1             2            0.10796
+   2          PCoV            0.04342
+   2             3            0.01441
+   3          Bat             0.00798
+   3          SARS-CoV2       0.00865
+   1          MERS-CoV        1.40177
+
+
+Data set # 2:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +---SARS-CoV  
+  ! 
+  !   +-PCoV      
+  1---3 
+  !   ! +SARS-CoV2 
+  !   +-2 
+  !     +Bat       
+  ! 
+  +----------------------------------------------MERS-CoV  
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          SARS-CoV        0.11729
+   1             3            0.11727
+   3          PCoV            0.04109
+   3             2            0.00449
+   2          SARS-CoV2       0.00828
+   2          Bat             0.01067
+   1          MERS-CoV        1.56129
+
+
+Data set # 3:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+     +-PCoV      
+  +--2 
+  !  ! +Bat       
+  !  +-3 
+  !    +SARS-CoV2 
+  ! 
+  1---SARS-CoV  
+  ! 
+  +-------------------------------------------MERS-CoV  
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1             2            0.10282
+   2          PCoV            0.04582
+   2             3            0.00803
+   3          Bat             0.01390
+   3          SARS-CoV2       0.01130
+   1          SARS-CoV        0.12167
+   1          MERS-CoV        1.46173
+
+
+Data set # 4:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +---SARS-CoV  
+  ! 
+  !     +Bat       
+  !   +-3 
+  1---2 +SARS-CoV2 
+  !   ! 
+  !   +-PCoV      
+  ! 
+  +--------------------------------------------MERS-CoV  
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          SARS-CoV        0.14109
+   1             2            0.11397
+   2             3            0.01844
+   3          Bat             0.01130
+   3          SARS-CoV2       0.01807
+   2          PCoV            0.05753
+   1          MERS-CoV        1.47718
+
+
+Data set # 5:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +--SARS-CoV  
+  ! 
+  !  +-PCoV      
+  1--2 
+  !  ! +Bat       
+  !  +-3 
+  !    +SARS-CoV2 
+  ! 
+  +--------------------------------------------MERS-CoV  
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          SARS-CoV        0.10362
+   1             2            0.10234
+   2          PCoV            0.05623
+   2             3            0.01012
+   3          Bat             0.00931
+   3          SARS-CoV2       0.00629
+   1          MERS-CoV        1.50321
+
+
+Data set # 6:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +---SARS-CoV  
+  ! 
+  !    +Bat       
+  !  +-3 
+  1--2 +SARS-CoV2 
+  !  ! 
+  !  +-PCoV      
+  ! 
+  +----------------------------------------------MERS-CoV  
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          SARS-CoV        0.11677
+   1             2            0.08876
+   2             3            0.01333
+   3          Bat             0.01227
+   3          SARS-CoV2       0.00888
+   2          PCoV            0.05089
+   1          MERS-CoV        1.54881
+
+
+Data set # 7:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +----SARS-CoV  
+  ! 
+  ! +-PCoV      
+  1-2 
+  ! ! +Bat       
+  ! +-3 
+  !   +SARS-CoV2 
+  ! 
+  +----------------------------------------------MERS-CoV  
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          SARS-CoV        0.15377
+   1             2            0.07443
+   2          PCoV            0.06087
+   2             3            0.01207
+   3          Bat             0.01435
+   3          SARS-CoV2       0.01562
+   1          MERS-CoV        1.54870
+
+
+Data set # 8:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +--SARS-CoV  
+  ! 
+  !   +-PCoV      
+  1---2 
+  !   ! +Bat       
+  !   +-3 
+  !     +SARS-CoV2 
+  ! 
+  +-------------------------------------------MERS-CoV  
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          SARS-CoV        0.08964
+   1             2            0.13389
+   2          PCoV            0.05918
+   2             3            0.00864
+   3          Bat             0.00915
+   3          SARS-CoV2       0.01858
+   1          MERS-CoV        1.44689
+
+
+Data set # 9:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +---SARS-CoV  
+  ! 
+  !  +-PCoV      
+  1--2 
+  !  ! +Bat       
+  !  +-3 
+  !    +SARS-CoV2 
+  ! 
+  +-------------------------------------------MERS-CoV  
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          SARS-CoV        0.11250
+   1             2            0.09788
+   2          PCoV            0.04496
+   2             3            0.00723
+   3          Bat             0.01147
+   3          SARS-CoV2       0.01218
+   1          MERS-CoV        1.46350
+
+
+Data set # 10:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +--SARS-CoV  
+  ! 
+  !   +-PCoV      
+  1---3 
+  !   ! +SARS-CoV2 
+  !   +-2 
+  !     +Bat       
+  ! 
+  +---------------------------------------------MERS-CoV  
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          SARS-CoV        0.10481
+   1             3            0.12212
+   3          PCoV            0.04561
+   3             2            0.01915
+   2          SARS-CoV2       0.01420
+   2          Bat             0.01024
+   1          MERS-CoV        1.52666
+
+
+Data set # 11:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +----SARS-CoV  
+  ! 
+  !    +Bat       
+  !  +-3 
+  1--2 +SARS-CoV2 
+  !  ! 
+  !  +-PCoV      
+  ! 
+  +-------------------------------------------MERS-CoV  
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          SARS-CoV        0.14679
+   1             2            0.10025
+   2             3            0.01434
+   3          Bat             0.00526
+   3          SARS-CoV2       0.01449
+   2          PCoV            0.04819
+   1          MERS-CoV        1.44397
+
+
+Data set # 12:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +--SARS-CoV  
+  ! 
+  !   +-PCoV      
+  1---2 
+  !   ! +Bat       
+  !   +-3 
+  !     +SARS-CoV2 
+  ! 
+  +--------------------------------------------MERS-CoV  
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          SARS-CoV        0.10493
+   1             2            0.12403
+   2          PCoV            0.04170
+   2             3            0.01474
+   3          Bat             0.01304
+   3          SARS-CoV2       0.01354
+   1          MERS-CoV        1.48586
+
+
+Data set # 13:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +----SARS-CoV  
+  ! 
+  !  +-PCoV      
+  1--3 
+  !  ! +Bat       
+  !  +-2 
+  !    +SARS-CoV2 
+  ! 
+  +-------------------------------------------MERS-CoV  
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          SARS-CoV        0.15450
+   1             3            0.09828
+   3          PCoV            0.05106
+   3             2            0.01708
+   2          Bat             0.01011
+   2          SARS-CoV2       0.00952
+   1          MERS-CoV        1.46440
+
+
+Data set # 14:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +---SARS-CoV  
+  ! 
+  !   +-PCoV      
+  1---3 
+  !   ! +SARS-CoV2 
+  !   +-2 
+  !     +Bat       
+  ! 
+  +--------------------------------------------MERS-CoV  
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          SARS-CoV        0.13216
+   1             3            0.12420
+   3          PCoV            0.05479
+   3             2            0.01696
+   2          SARS-CoV2       0.01222
+   2          Bat             0.01196
+   1          MERS-CoV        1.48150
+
+
+Data set # 15:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+     +SARS-CoV2 
+  +--2 
+  !  ! +-PCoV      
+  !  +-3 
+  !    +Bat       
+  ! 
+  1---SARS-CoV  
+  ! 
+  +---------------------------------------MERS-CoV  
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1             2            0.09867
+   2          SARS-CoV2       0.01334
+   2             3            0.00086
+   3          PCoV            0.05214
+   3          Bat             0.00625
+   1          SARS-CoV        0.13455
+   1          MERS-CoV        1.31695
+
+
+Data set # 16:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+      +-PCoV      
+  +---3 
+  !   ! +Bat       
+  !   +-2 
+  !     +SARS-CoV2 
+  ! 
+  1--SARS-CoV  
+  ! 
+  +-------------------------------------------MERS-CoV  
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1             3            0.14039
+   3          PCoV            0.04562
+   3             2            0.01385
+   2          Bat             0.01085
+   2          SARS-CoV2       0.00960
+   1          SARS-CoV        0.10529
+   1          MERS-CoV        1.44735
+
+
+Data set # 17:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +---SARS-CoV  
+  ! 
+  !     +Bat       
+  !   +-3 
+  1---2 +SARS-CoV2 
+  !   ! 
+  !   +-PCoV      
+  ! 
+  +------------------------------------------------MERS-CoV  
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          SARS-CoV        0.11917
+   1             2            0.12248
+   2             3            0.01425
+   3          Bat             0.01279
+   3          SARS-CoV2       0.01363
+   2          PCoV            0.05438
+   1          MERS-CoV        1.63530
+
+
+Data set # 18:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +---SARS-CoV  
+  ! 
+  !   +-PCoV      
+  1---2 
+  !   ! +Bat       
+  !   +-3 
+  !     +SARS-CoV2 
+  ! 
+  +----------------------------------------MERS-CoV  
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          SARS-CoV        0.11965
+   1             2            0.11647
+   2          PCoV            0.05350
+   2             3            0.01283
+   3          Bat             0.00871
+   3          SARS-CoV2       0.00928
+   1          MERS-CoV        1.35251
+
+
+Data set # 19:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+     +-PCoV      
+  +--3 
+  !  ! +Bat       
+  !  +-2 
+  !    +SARS-CoV2 
+  ! 
+  1----SARS-CoV  
+  ! 
+  +---------------------------------------------MERS-CoV  
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1             3            0.10263
+   3          PCoV            0.05077
+   3             2            0.01247
+   2          Bat             0.01348
+   2          SARS-CoV2       0.01484
+   1          SARS-CoV        0.14321
+   1          MERS-CoV        1.50996
+
+
+Data set # 20:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+     +PCoV      
+  +--2 
+  !  ! +Bat       
+  !  +-3 
+  !    +SARS-CoV2 
+  ! 
+  1----SARS-CoV  
+  ! 
+  +---------------------------------------------MERS-CoV  
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1             2            0.07507
+   2          PCoV            0.03928
+   2             3            0.01748
+   3          Bat             0.00970
+   3          SARS-CoV2       0.01305
+   1          SARS-CoV        0.15231
+   1          MERS-CoV        1.50884
+
+
+Data set # 21:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+        +Bat       
+      +-3 
+  +---2 +SARS-CoV2 
+  !   ! 
+  !   +-PCoV      
+  ! 
+  1--SARS-CoV  
+  ! 
+  +---------------------------------------------MERS-CoV  
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1             2            0.12736
+   2             3            0.00829
+   3          Bat             0.01136
+   3          SARS-CoV2       0.01222
+   2          PCoV            0.04782
+   1          SARS-CoV        0.10670
+   1          MERS-CoV        1.53650
+
+
+Data set # 22:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +---SARS-CoV  
+  ! 
+  !   +-PCoV      
+  1---3 
+  !   ! +Bat       
+  !   +-2 
+  !     +SARS-CoV2 
+  ! 
+  +----------------------------------------------MERS-CoV  
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          SARS-CoV        0.11105
+   1             3            0.12216
+   3          PCoV            0.04917
+   3             2            0.01444
+   2          Bat             0.01311
+   2          SARS-CoV2       0.01358
+   1          MERS-CoV        1.55300
+
+
+Data set # 23:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+     +-PCoV      
+  +--3 
+  !  ! +Bat       
+  !  +-2 
+  !    +SARS-CoV2 
+  ! 
+  1---SARS-CoV  
+  ! 
+  +-------------------------------------------------MERS-CoV  
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1             3            0.10808
+   3          PCoV            0.05152
+   3             2            0.01003
+   2          Bat             0.01034
+   2          SARS-CoV2       0.01014
+   1          SARS-CoV        0.11871
+   1          MERS-CoV        1.65035
+
+
+Data set # 24:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+      +PCoV      
+  +---2 
+  !   ! +Bat       
+  !   +-3 
+  !     +SARS-CoV2 
+  ! 
+  1---SARS-CoV  
+  ! 
+  +---------------------------------------MERS-CoV  
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1             2            0.11730
+   2          PCoV            0.03912
+   2             3            0.01213
+   3          Bat             0.00858
+   3          SARS-CoV2       0.01010
+   1          SARS-CoV        0.11960
+   1          MERS-CoV        1.31620
+
+
+Data set # 25:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+       +Bat       
+     +-3 
+  +--2 +SARS-CoV2 
+  !  ! 
+  !  +-PCoV      
+  ! 
+  1---SARS-CoV  
+  ! 
+  +----------------------------------------------MERS-CoV  
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1             2            0.10632
+   2             3            0.01263
+   3          Bat             0.01168
+   3          SARS-CoV2       0.01195
+   2          PCoV            0.05309
+   1          SARS-CoV        0.12503
+   1          MERS-CoV        1.55216
+
+
+Data set # 26:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +--SARS-CoV  
+  ! 
+  !   +-PCoV      
+  1---2 
+  !   ! +Bat       
+  !   +-3 
+  !     +SARS-CoV2 
+  ! 
+  +---------------------------------------------MERS-CoV  
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          SARS-CoV        0.10625
+   1             2            0.12106
+   2          PCoV            0.04653
+   2             3            0.01231
+   3          Bat             0.00616
+   3          SARS-CoV2       0.01423
+   1          MERS-CoV        1.52274
+
+
+Data set # 27:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +---SARS-CoV  
+  ! 
+  !   +PCoV      
+  1---3 
+  !   ! +SARS-CoV2 
+  !   +-2 
+  !     +Bat       
+  ! 
+  +--------------------------------------------MERS-CoV  
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          SARS-CoV        0.13453
+   1             3            0.11052
+   3          PCoV            0.04158
+   3             2            0.01787
+   2          SARS-CoV2       0.00827
+   2          Bat             0.00899
+   1          MERS-CoV        1.49628
+
+
+Data set # 28:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +--SARS-CoV  
+  ! 
+  !   +-PCoV      
+  1---3 
+  !   ! +Bat       
+  !   +-2 
+  !     +SARS-CoV2 
+  ! 
+  +----------------------------------------------MERS-CoV  
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          SARS-CoV        0.09521
+   1             3            0.13098
+   3          PCoV            0.06616
+   3             2            0.00932
+   2          Bat             0.00828
+   2          SARS-CoV2       0.01372
+   1          MERS-CoV        1.56874
+
+
+Data set # 29:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +---SARS-CoV  
+  ! 
+  !  +-PCoV      
+  1--3 
+  !  ! +Bat       
+  !  +-2 
+  !    +SARS-CoV2 
+  ! 
+  +-----------------------------------------------MERS-CoV  
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          SARS-CoV        0.12108
+   1             3            0.10373
+   3          PCoV            0.05545
+   3             2            0.01262
+   2          Bat             0.01115
+   2          SARS-CoV2       0.01402
+   1          MERS-CoV        1.60053
+
+
+Data set # 30:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+     +-PCoV      
+  +--2 
+  !  ! +Bat       
+  !  +-3 
+  !    +SARS-CoV2 
+  ! 
+  1---SARS-CoV  
+  ! 
+  +-----------------------------------------MERS-CoV  
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1             2            0.09150
+   2          PCoV            0.04050
+   2             3            0.02314
+   3          Bat             0.00774
+   3          SARS-CoV2       0.01033
+   1          SARS-CoV        0.13592
+   1          MERS-CoV        1.40316
+
+
+Data set # 31:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+       +Bat       
+     +-3 
+  +--2 +SARS-CoV2 
+  !  ! 
+  !  +-PCoV      
+  ! 
+  1---SARS-CoV  
+  ! 
+  +---------------------------------------------MERS-CoV  
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1             2            0.08584
+   2             3            0.01426
+   3          Bat             0.00807
+   3          SARS-CoV2       0.00902
+   2          PCoV            0.05215
+   1          SARS-CoV        0.13613
+   1          MERS-CoV        1.54059
+
+
+Data set # 32:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+     +-PCoV      
+  +--2 
+  !  ! +Bat       
+  !  +-3 
+  !    +SARS-CoV2 
+  ! 
+  1---SARS-CoV  
+  ! 
+  +---------------------------------------------MERS-CoV  
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1             2            0.09917
+   2          PCoV            0.05498
+   2             3            0.01611
+   3          Bat             0.01376
+   3          SARS-CoV2       0.01573
+   1          SARS-CoV        0.13863
+   1          MERS-CoV        1.54083
+
+
+Data set # 33:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +--SARS-CoV  
+  ! 
+  !     +Bat       
+  !   +-3 
+  1---2 +SARS-CoV2 
+  !   ! 
+  !   +-PCoV      
+  ! 
+  +-------------------------------------------MERS-CoV  
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          SARS-CoV        0.09827
+   1             2            0.12871
+   2             3            0.00694
+   3          Bat             0.01293
+   3          SARS-CoV2       0.01126
+   2          PCoV            0.05000
+   1          MERS-CoV        1.46324
+
+
+Data set # 34:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +---SARS-CoV  
+  ! 
+  !    +-PCoV      
+  1----2 
+  !    ! +Bat       
+  !    +-3 
+  !      +SARS-CoV2 
+  ! 
+  +--------------------------------------------MERS-CoV  
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          SARS-CoV        0.12107
+   1             2            0.14197
+   2          PCoV            0.06093
+   2             3            0.01850
+   3          Bat             0.01299
+   3          SARS-CoV2       0.02072
+   1          MERS-CoV        1.48064
+
+
+Data set # 35:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+       +Bat       
+     +-3 
+  +--2 +SARS-CoV2 
+  !  ! 
+  !  +-PCoV      
+  ! 
+  1----SARS-CoV  
+  ! 
+  +----------------------------------------------MERS-CoV  
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1             2            0.10432
+   2             3            0.00560
+   3          Bat             0.00860
+   3          SARS-CoV2       0.01572
+   2          PCoV            0.06517
+   1          SARS-CoV        0.16351
+   1          MERS-CoV        1.54260
+
+
+Data set # 36:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+     +PCoV      
+  +--2 
+  !  ! +Bat       
+  !  +-3 
+  !    +SARS-CoV2 
+  ! 
+  1----SARS-CoV  
+  ! 
+  +-----------------------------------------MERS-CoV  
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1             2            0.07895
+   2          PCoV            0.04176
+   2             3            0.01222
+   3          Bat             0.01050
+   3          SARS-CoV2       0.01255
+   1          SARS-CoV        0.14983
+   1          MERS-CoV        1.40623
+
+
+Data set # 37:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +---SARS-CoV  
+  ! 
+  !   +-PCoV      
+  1---3 
+  !   ! +Bat       
+  !   +-2 
+  !     +SARS-CoV2 
+  ! 
+  +----------------------------------------MERS-CoV  
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          SARS-CoV        0.11915
+   1             3            0.12488
+   3          PCoV            0.04719
+   3             2            0.01687
+   2          Bat             0.01053
+   2          SARS-CoV2       0.01406
+   1          MERS-CoV        1.35909
+
+
+Data set # 38:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+     +-PCoV      
+  +--2 
+  !  ! +Bat       
+  !  +-3 
+  !    +SARS-CoV2 
+  ! 
+  1--SARS-CoV  
+  ! 
+  +-----------------------------------------------MERS-CoV  
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1             2            0.10538
+   2          PCoV            0.04948
+   2             3            0.01161
+   3          Bat             0.01432
+   3          SARS-CoV2       0.01322
+   1          SARS-CoV        0.10131
+   1          MERS-CoV        1.58497
+
+
+Data set # 39:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +---SARS-CoV  
+  ! 
+  !  +-PCoV      
+  1--3 
+  !  ! +SARS-CoV2 
+  !  +-2 
+  !    +Bat       
+  ! 
+  +---------------------------------------------MERS-CoV  
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          SARS-CoV        0.12577
+   1             3            0.10270
+   3          PCoV            0.04597
+   3             2            0.02144
+   2          SARS-CoV2       0.01201
+   2          Bat             0.01117
+   1          MERS-CoV        1.52722
+
+
+Data set # 40:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +----SARS-CoV  
+  ! 
+  !    +Bat       
+  !  +-3 
+  1--2 +SARS-CoV2 
+  !  ! 
+  !  +-PCoV      
+  ! 
+  +----------------------------------------------MERS-CoV  
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          SARS-CoV        0.15132
+   1             2            0.08261
+   2             3            0.01093
+   3          Bat             0.00904
+   3          SARS-CoV2       0.01389
+   2          PCoV            0.04348
+   1          MERS-CoV        1.57363
+
+
+Data set # 41:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+      +-PCoV      
+  +---3 
+  !   ! +SARS-CoV2 
+  !   +-2 
+  !     +Bat       
+  ! 
+  1---SARS-CoV  
+  ! 
+  +-------------------------------------------MERS-CoV  
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1             3            0.13135
+   3          PCoV            0.04664
+   3             2            0.01163
+   2          SARS-CoV2       0.01286
+   2          Bat             0.00599
+   1          SARS-CoV        0.11060
+   1          MERS-CoV        1.44931
+
+
+Data set # 42:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +---SARS-CoV  
+  ! 
+  !   +-PCoV      
+  1---3 
+  !   ! +SARS-CoV2 
+  !   +-2 
+  !     +Bat       
+  ! 
+  +--------------------------------------------------MERS-CoV  
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          SARS-CoV        0.11670
+   1             3            0.13044
+   3          PCoV            0.05338
+   3             2            0.01136
+   2          SARS-CoV2       0.01680
+   2          Bat             0.00595
+   1          MERS-CoV        1.68656
+
+
+Data set # 43:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+      +SARS-CoV2 
+  +---2 
+  !   ! +-PCoV      
+  !   +-3 
+  !     +Bat       
+  ! 
+  1---SARS-CoV  
+  ! 
+  +--------------------------------------------MERS-CoV  
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1             2            0.13940
+   2          SARS-CoV2       0.01535
+   2             3            0.00264
+   3          PCoV            0.05344
+   3          Bat             0.01295
+   1          SARS-CoV        0.10886
+   1          MERS-CoV        1.48103
+
+
+Data set # 44:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+      +-PCoV      
+  +---3 
+  !   ! +SARS-CoV2 
+  !   +-2 
+  !     +Bat       
+  ! 
+  1----SARS-CoV  
+  ! 
+  +----------------------------------------------MERS-CoV  
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1             3            0.12349
+   3          PCoV            0.05354
+   3             2            0.01908
+   2          SARS-CoV2       0.01085
+   2          Bat             0.01245
+   1          SARS-CoV        0.14903
+   1          MERS-CoV        1.55273
+
+
+Data set # 45:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+      +-PCoV      
+  +---3 
+  !   ! +Bat       
+  !   +-2 
+  !     +SARS-CoV2 
+  ! 
+  1--SARS-CoV  
+  ! 
+  +-----------------------------------------MERS-CoV  
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1             3            0.14134
+   3          PCoV            0.05977
+   3             2            0.00775
+   2          Bat             0.01076
+   2          SARS-CoV2       0.01447
+   1          SARS-CoV        0.08133
+   1          MERS-CoV        1.37844
+
+
+Data set # 46:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+        +Bat       
+      +-3 
+  +---2 +SARS-CoV2 
+  !   ! 
+  !   +-PCoV      
+  ! 
+  1--SARS-CoV  
+  ! 
+  +-----------------------------------------------MERS-CoV  
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1             2            0.13893
+   2             3            0.01490
+   3          Bat             0.01073
+   3          SARS-CoV2       0.00767
+   2          PCoV            0.04714
+   1          SARS-CoV        0.08946
+   1          MERS-CoV        1.58476
+
+
+Data set # 47:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +--SARS-CoV  
+  ! 
+  !   +-PCoV      
+  1---3 
+  !   ! +SARS-CoV2 
+  !   +-2 
+  !     +Bat       
+  ! 
+  +--------------------------------------------MERS-CoV  
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          SARS-CoV        0.10833
+   1             3            0.11949
+   3          PCoV            0.05109
+   3             2            0.02182
+   2          SARS-CoV2       0.00884
+   2          Bat             0.00798
+   1          MERS-CoV        1.47652
+
+
+Data set # 48:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +---SARS-CoV  
+  ! 
+  !   +PCoV      
+  1---3 
+  !   ! +Bat       
+  !   +-2 
+  !     +SARS-CoV2 
+  ! 
+  +-----------------------------------------------MERS-CoV  
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          SARS-CoV        0.12506
+   1             3            0.12706
+   3          PCoV            0.04561
+   3             2            0.02055
+   2          Bat             0.01252
+   2          SARS-CoV2       0.00962
+   1          MERS-CoV        1.57674
+
+
+Data set # 49:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+     +-PCoV      
+  +--3 
+  !  ! +Bat       
+  !  +-2 
+  !    +SARS-CoV2 
+  ! 
+  1---SARS-CoV  
+  ! 
+  +--------------------------------------------MERS-CoV  
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1             3            0.09048
+   3          PCoV            0.05046
+   3             2            0.01479
+   2          Bat             0.01228
+   2          SARS-CoV2       0.00965
+   1          SARS-CoV        0.12135
+   1          MERS-CoV        1.50632
+
+
+Data set # 50:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +----SARS-CoV  
+  ! 
+  !  +-PCoV      
+  1--3 
+  !  ! +SARS-CoV2 
+  !  +-2 
+  !    +Bat       
+  ! 
+  +-------------------------------------------MERS-CoV  
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          SARS-CoV        0.14487
+   1             3            0.09698
+   3          PCoV            0.04558
+   3             2            0.01875
+   2          SARS-CoV2       0.01291
+   2          Bat             0.01248
+   1          MERS-CoV        1.46577
+
+
+Data set # 51:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+        +Bat       
+      +-3 
+  +---2 +SARS-CoV2 
+  !   ! 
+  !   +-PCoV      
+  ! 
+  1--SARS-CoV  
+  ! 
+  +--------------------------------------------MERS-CoV  
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1             2            0.13524
+   2             3            0.01430
+   3          Bat             0.00694
+   3          SARS-CoV2       0.01416
+   2          PCoV            0.05988
+   1          SARS-CoV        0.09056
+   1          MERS-CoV        1.49526
+
+
+Data set # 52:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +---SARS-CoV  
+  ! 
+  !   +-PCoV      
+  1---3 
+  !   ! +SARS-CoV2 
+  !   +-2 
+  !     +Bat       
+  ! 
+  +---------------------------------------------MERS-CoV  
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          SARS-CoV        0.11674
+   1             3            0.12311
+   3          PCoV            0.05134
+   3             2            0.01483
+   2          SARS-CoV2       0.01099
+   2          Bat             0.00713
+   1          MERS-CoV        1.51934
+
+
+Data set # 53:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +---SARS-CoV  
+  ! 
+  !  +-PCoV      
+  1--2 
+  !  ! +Bat       
+  !  +-3 
+  !    +SARS-CoV2 
+  ! 
+  +--------------------------------------------MERS-CoV  
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          SARS-CoV        0.13287
+   1             2            0.08399
+   2          PCoV            0.05103
+   2             3            0.02459
+   3          Bat             0.01257
+   3          SARS-CoV2       0.01348
+   1          MERS-CoV        1.50634
+
+
+Data set # 54:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +---SARS-CoV  
+  ! 
+  !  +-PCoV      
+  1--3 
+  !  ! +SARS-CoV2 
+  !  +-2 
+  !    +Bat       
+  ! 
+  +-------------------------------------------MERS-CoV  
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          SARS-CoV        0.11926
+   1             3            0.08738
+   3          PCoV            0.04908
+   3             2            0.01210
+   2          SARS-CoV2       0.00892
+   2          Bat             0.00680
+   1          MERS-CoV        1.47421
+
+
+Data set # 55:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +--SARS-CoV  
+  ! 
+  !   +-PCoV      
+  1---2 
+  !   ! +Bat       
+  !   +-3 
+  !     +SARS-CoV2 
+  ! 
+  +---------------------------------------------MERS-CoV  
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          SARS-CoV        0.09782
+   1             2            0.11088
+   2          PCoV            0.04788
+   2             3            0.01430
+   3          Bat             0.01465
+   3          SARS-CoV2       0.01322
+   1          MERS-CoV        1.51995
+
+
+Data set # 56:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +---SARS-CoV  
+  ! 
+  !   +-PCoV      
+  1---3 
+  !   ! +SARS-CoV2 
+  !   +-2 
+  !     +Bat       
+  ! 
+  +-------------------------------------------MERS-CoV  
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          SARS-CoV        0.12990
+   1             3            0.11638
+   3          PCoV            0.05710
+   3             2            0.00927
+   2          SARS-CoV2       0.00904
+   2          Bat             0.00613
+   1          MERS-CoV        1.45480
+
+
+Data set # 57:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +---SARS-CoV  
+  ! 
+  !  +-PCoV      
+  1--3 
+  !  ! +SARS-CoV2 
+  !  +-2 
+  !    +Bat       
+  ! 
+  +------------------------------------------MERS-CoV  
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          SARS-CoV        0.13461
+   1             3            0.08469
+   3          PCoV            0.05068
+   3             2            0.01771
+   2          SARS-CoV2       0.01182
+   2          Bat             0.00916
+   1          MERS-CoV        1.42107
+
+
+Data set # 58:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +---SARS-CoV  
+  ! 
+  !   +-PCoV      
+  1---2 
+  !   ! +Bat       
+  !   +-3 
+  !     +SARS-CoV2 
+  ! 
+  +------------------------------------------MERS-CoV  
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          SARS-CoV        0.12592
+   1             2            0.13218
+   2          PCoV            0.04913
+   2             3            0.01052
+   3          Bat             0.00861
+   3          SARS-CoV2       0.01268
+   1          MERS-CoV        1.42633
+
+
+Data set # 59:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+      +-PCoV      
+  +---2 
+  !   ! +Bat       
+  !   +-3 
+  !     +SARS-CoV2 
+  ! 
+  1---SARS-CoV  
+  ! 
+  +--------------------------------------------MERS-CoV  
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1             2            0.13041
+   2          PCoV            0.04555
+   2             3            0.01027
+   3          Bat             0.00535
+   3          SARS-CoV2       0.01291
+   1          SARS-CoV        0.13848
+   1          MERS-CoV        1.48421
+
+
+Data set # 60:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +---SARS-CoV  
+  ! 
+  !    +-PCoV      
+  1----3 
+  !    ! +SARS-CoV2 
+  !    +-2 
+  !      +Bat       
+  ! 
+  +-------------------------------------------MERS-CoV  
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          SARS-CoV        0.12443
+   1             3            0.15136
+   3          PCoV            0.05039
+   3             2            0.00371
+   2          SARS-CoV2       0.01565
+   2          Bat             0.01161
+   1          MERS-CoV        1.46237
+
+
+Data set # 61:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+      +-PCoV      
+  +---2 
+  !   ! +Bat       
+  !   +-3 
+  !     +SARS-CoV2 
+  ! 
+  1---SARS-CoV  
+  ! 
+  +-----------------------------------------MERS-CoV  
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1             2            0.12182
+   2          PCoV            0.05415
+   2             3            0.01006
+   3          Bat             0.00885
+   3          SARS-CoV2       0.01263
+   1          SARS-CoV        0.11210
+   1          MERS-CoV        1.40455
+
+
+Data set # 62:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +---SARS-CoV  
+  ! 
+  !   +-PCoV      
+  1---2 
+  !   ! +Bat       
+  !   +-3 
+  !     +SARS-CoV2 
+  ! 
+  +---------------------------------------------MERS-CoV  
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          SARS-CoV        0.12290
+   1             2            0.11593
+   2          PCoV            0.04788
+   2             3            0.00927
+   3          Bat             0.00914
+   3          SARS-CoV2       0.00659
+   1          MERS-CoV        1.53476
+
+
+Data set # 63:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+       +-PCoV      
+  +----3 
+  !    ! +Bat       
+  !    +-2 
+  !      +SARS-CoV2 
+  ! 
+  1---SARS-CoV  
+  ! 
+  +------------------------------------------MERS-CoV  
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1             3            0.15793
+   3          PCoV            0.06455
+   3             2            0.01230
+   2          Bat             0.01218
+   2          SARS-CoV2       0.01025
+   1          SARS-CoV        0.11082
+   1          MERS-CoV        1.43821
+
+
+Data set # 64:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+     +-PCoV      
+  +--2 
+  !  ! +Bat       
+  !  +-3 
+  !    +SARS-CoV2 
+  ! 
+  1---SARS-CoV  
+  ! 
+  +-------------------------------------------MERS-CoV  
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1             2            0.10521
+   2          PCoV            0.04725
+   2             3            0.00143
+   3          Bat             0.00961
+   3          SARS-CoV2       0.02036
+   1          SARS-CoV        0.11593
+   1          MERS-CoV        1.46191
+
+
+Data set # 65:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +--SARS-CoV  
+  ! 
+  !   +-PCoV      
+  1---2 
+  !   ! +Bat       
+  !   +-3 
+  !     +SARS-CoV2 
+  ! 
+  +-------------------------------------------MERS-CoV  
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          SARS-CoV        0.10563
+   1             2            0.12879
+   2          PCoV            0.05103
+   2             3            0.01028
+   3          Bat             0.01022
+   3          SARS-CoV2       0.01494
+   1          MERS-CoV        1.47307
+
+
+Data set # 66:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +----SARS-CoV  
+  ! 
+  !  +-PCoV      
+  1--2 
+  !  ! +Bat       
+  !  +-3 
+  !    +SARS-CoV2 
+  ! 
+  +-------------------------------------------------MERS-CoV  
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          SARS-CoV        0.14537
+   1             2            0.07667
+   2          PCoV            0.05557
+   2             3            0.00860
+   3          Bat             0.01050
+   3          SARS-CoV2       0.01014
+   1          MERS-CoV        1.66445
+
+
+Data set # 67:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +----SARS-CoV  
+  ! 
+  !  +PCoV      
+  1--2 
+  !  ! +Bat       
+  !  +-3 
+  !    +SARS-CoV2 
+  ! 
+  +-----------------------------------------MERS-CoV  
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          SARS-CoV        0.14553
+   1             2            0.10608
+   2          PCoV            0.03362
+   2             3            0.00933
+   3          Bat             0.00912
+   3          SARS-CoV2       0.01356
+   1          MERS-CoV        1.38060
+
+
+Data set # 68:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+      +-PCoV      
+  +---2 
+  !   ! +Bat       
+  !   +-3 
+  !     +SARS-CoV2 
+  ! 
+  1--SARS-CoV  
+  ! 
+  +---------------------------------------------MERS-CoV  
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1             2            0.12833
+   2          PCoV            0.04863
+   2             3            0.00571
+   3          Bat             0.01186
+   3          SARS-CoV2       0.01039
+   1          SARS-CoV        0.09016
+   1          MERS-CoV        1.53657
+
+
+Data set # 69:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +---SARS-CoV  
+  ! 
+  !   +-PCoV      
+  1---3 
+  !   ! +Bat       
+  !   +-2 
+  !     +SARS-CoV2 
+  ! 
+  +--------------------------------------------MERS-CoV  
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          SARS-CoV        0.11723
+   1             3            0.11800
+   3          PCoV            0.04874
+   3             2            0.01195
+   2          Bat             0.00823
+   2          SARS-CoV2       0.00936
+   1          MERS-CoV        1.49887
+
+
+Data set # 70:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+       +Bat       
+     +-3 
+  +--2 +SARS-CoV2 
+  !  ! 
+  !  +PCoV      
+  ! 
+  1---SARS-CoV  
+  ! 
+  +-----------------------------------------MERS-CoV  
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1             2            0.07514
+   2             3            0.00856
+   3          Bat             0.01210
+   3          SARS-CoV2       0.01570
+   2          PCoV            0.03706
+   1          SARS-CoV        0.12959
+   1          MERS-CoV        1.38938
+
+
+Data set # 71:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+       +Bat       
+     +-3 
+  +--2 +SARS-CoV2 
+  !  ! 
+  !  +-PCoV      
+  ! 
+  1---SARS-CoV  
+  ! 
+  +------------------------------------------------MERS-CoV  
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1             2            0.08816
+   2             3            0.01005
+   3          Bat             0.01168
+   3          SARS-CoV2       0.01897
+   2          PCoV            0.03958
+   1          SARS-CoV        0.13762
+   1          MERS-CoV        1.61198
+
+
+Data set # 72:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+     +-PCoV      
+  +--3 
+  !  ! +Bat       
+  !  +-2 
+  !    +SARS-CoV2 
+  ! 
+  1----SARS-CoV  
+  ! 
+  +-------------------------------------------MERS-CoV  
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1             3            0.10390
+   3          PCoV            0.05110
+   3             2            0.00846
+   2          Bat             0.01096
+   2          SARS-CoV2       0.01331
+   1          SARS-CoV        0.14772
+   1          MERS-CoV        1.46244
+
+
+Data set # 73:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +----SARS-CoV  
+  ! 
+  !  +-PCoV      
+  1--2 
+  !  ! +Bat       
+  !  +-3 
+  !    +SARS-CoV2 
+  ! 
+  +------------------------------------------MERS-CoV  
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          SARS-CoV        0.16155
+   1             2            0.09088
+   2          PCoV            0.05623
+   2             3            0.00792
+   3          Bat             0.01020
+   3          SARS-CoV2       0.01443
+   1          MERS-CoV        1.44148
+
+
+Data set # 74:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +---SARS-CoV  
+  ! 
+  !  +-PCoV      
+  1--3 
+  !  ! +SARS-CoV2 
+  !  +-2 
+  !    +Bat       
+  ! 
+  +----------------------------------------------MERS-CoV  
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          SARS-CoV        0.13328
+   1             3            0.10190
+   3          PCoV            0.04712
+   3             2            0.01623
+   2          SARS-CoV2       0.01537
+   2          Bat             0.01078
+   1          MERS-CoV        1.54763
+
+
+Data set # 75:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +----SARS-CoV  
+  ! 
+  !     +Bat       
+  !   +-3 
+  1---2 +SARS-CoV2 
+  !   ! 
+  !   +-PCoV      
+  ! 
+  +-----------------------------------------MERS-CoV  
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          SARS-CoV        0.14985
+   1             2            0.11232
+   2             3            0.01896
+   3          Bat             0.01216
+   3          SARS-CoV2       0.01444
+   2          PCoV            0.05540
+   1          MERS-CoV        1.39376
+
+
+Data set # 76:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +---SARS-CoV  
+  ! 
+  !   +-PCoV      
+  1---3 
+  !   ! +SARS-CoV2 
+  !   +-2 
+  !     +Bat       
+  ! 
+  +---------------------------------------------MERS-CoV  
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          SARS-CoV        0.11454
+   1             3            0.13770
+   3          PCoV            0.04900
+   3             2            0.01949
+   2          SARS-CoV2       0.01307
+   2          Bat             0.01312
+   1          MERS-CoV        1.50942
+
+
+Data set # 77:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +----SARS-CoV  
+  ! 
+  !  +-PCoV      
+  1--2 
+  !  ! +Bat       
+  !  +-3 
+  !    +SARS-CoV2 
+  ! 
+  +---------------------------------------------MERS-CoV  
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          SARS-CoV        0.15242
+   1             2            0.08988
+   2          PCoV            0.04740
+   2             3            0.01857
+   3          Bat             0.00923
+   3          SARS-CoV2       0.01471
+   1          MERS-CoV        1.53476
+
+
+Data set # 78:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +---SARS-CoV  
+  ! 
+  !   +-PCoV      
+  1---3 
+  !   ! +Bat       
+  !   +-2 
+  !     +SARS-CoV2 
+  ! 
+  +---------------------------------------------MERS-CoV  
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          SARS-CoV        0.10855
+   1             3            0.10881
+   3          PCoV            0.05779
+   3             2            0.01128
+   2          Bat             0.01061
+   2          SARS-CoV2       0.01305
+   1          MERS-CoV        1.53240
+
+
+Data set # 79:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +----SARS-CoV  
+  ! 
+  !  +PCoV      
+  1--2 
+  !  ! +Bat       
+  !  +-3 
+  !    +SARS-CoV2 
+  ! 
+  +----------------------------------------------MERS-CoV  
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          SARS-CoV        0.15407
+   1             2            0.07563
+   2          PCoV            0.04634
+   2             3            0.01432
+   3          Bat             0.00986
+   3          SARS-CoV2       0.01350
+   1          MERS-CoV        1.57459
+
+
+Data set # 80:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+        +Bat       
+      +-3 
+  +---2 +SARS-CoV2 
+  !   ! 
+  !   +PCoV      
+  ! 
+  1---SARS-CoV  
+  ! 
+  +---------------------------------------MERS-CoV  
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1             2            0.13056
+   2             3            0.01373
+   3          Bat             0.00683
+   3          SARS-CoV2       0.01191
+   2          PCoV            0.04426
+   1          SARS-CoV        0.13664
+   1          MERS-CoV        1.33321
+
+
+Data set # 81:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+       +Bat       
+     +-3 
+  +--2 +SARS-CoV2 
+  !  ! 
+  !  +PCoV      
+  ! 
+  1---SARS-CoV  
+  ! 
+  +---------------------------------------------MERS-CoV  
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1             2            0.09221
+   2             3            0.02153
+   3          Bat             0.01141
+   3          SARS-CoV2       0.01225
+   2          PCoV            0.03562
+   1          SARS-CoV        0.11829
+   1          MERS-CoV        1.51443
+
+
+Data set # 82:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +---SARS-CoV  
+  ! 
+  !   +-PCoV      
+  1---3 
+  !   ! +Bat       
+  !   +-2 
+  !     +SARS-CoV2 
+  ! 
+  +-------------------------------------------MERS-CoV  
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          SARS-CoV        0.14104
+   1             3            0.11589
+   3          PCoV            0.05410
+   3             2            0.01292
+   2          Bat             0.01508
+   2          SARS-CoV2       0.01111
+   1          MERS-CoV        1.47033
+
+
+Data set # 83:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+     +PCoV      
+  +--3 
+  !  ! +SARS-CoV2 
+  !  +-2 
+  !    +Bat       
+  ! 
+  1--SARS-CoV  
+  ! 
+  +-----------------------------------------MERS-CoV  
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1             3            0.09847
+   3          PCoV            0.03611
+   3             2            0.00829
+   2          SARS-CoV2       0.01514
+   2          Bat             0.01124
+   1          SARS-CoV        0.10447
+   1          MERS-CoV        1.40631
+
+
+Data set # 84:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+     +-PCoV      
+  +--3 
+  !  ! +SARS-CoV2 
+  !  +-2 
+  !    +Bat       
+  ! 
+  1---SARS-CoV  
+  ! 
+  +-------------------------------------------MERS-CoV  
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1             3            0.10214
+   3          PCoV            0.04563
+   3             2            0.01021
+   2          SARS-CoV2       0.01365
+   2          Bat             0.01497
+   1          SARS-CoV        0.12192
+   1          MERS-CoV        1.46466
+
+
+Data set # 85:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+     +-PCoV      
+  +--2 
+  !  ! +Bat       
+  !  +-3 
+  !    +SARS-CoV2 
+  ! 
+  1----SARS-CoV  
+  ! 
+  +---------------------------------------------MERS-CoV  
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1             2            0.10658
+   2          PCoV            0.04797
+   2             3            0.00609
+   3          Bat             0.01372
+   3          SARS-CoV2       0.01185
+   1          SARS-CoV        0.15939
+   1          MERS-CoV        1.52472
+
+
+Data set # 86:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +---SARS-CoV  
+  ! 
+  !   +-PCoV      
+  1---2 
+  !   ! +Bat       
+  !   +-3 
+  !     +SARS-CoV2 
+  ! 
+  +-----------------------------------------------MERS-CoV  
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          SARS-CoV        0.11931
+   1             2            0.12352
+   2          PCoV            0.05573
+   2             3            0.01019
+   3          Bat             0.01385
+   3          SARS-CoV2       0.01283
+   1          MERS-CoV        1.59581
+
+
+Data set # 87:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+       +Bat       
+     +-3 
+  +--2 +SARS-CoV2 
+  !  ! 
+  !  +-PCoV      
+  ! 
+  1---SARS-CoV  
+  ! 
+  +------------------------------------------------MERS-CoV  
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1             2            0.09623
+   2             3            0.01689
+   3          Bat             0.00841
+   3          SARS-CoV2       0.00875
+   2          PCoV            0.04835
+   1          SARS-CoV        0.12297
+   1          MERS-CoV        1.63390
+
+
+Data set # 88:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+     +-PCoV      
+  +--3 
+  !  ! +Bat       
+  !  +-2 
+  !    +SARS-CoV2 
+  ! 
+  1----SARS-CoV  
+  ! 
+  +-------------------------------------------MERS-CoV  
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1             3            0.09884
+   3          PCoV            0.05121
+   3             2            0.01539
+   2          Bat             0.01330
+   2          SARS-CoV2       0.00848
+   1          SARS-CoV        0.14805
+   1          MERS-CoV        1.45811
+
+
+Data set # 89:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+     +-PCoV      
+  +--2 
+  !  ! +Bat       
+  !  +-3 
+  !    +SARS-CoV2 
+  ! 
+  1----SARS-CoV  
+  ! 
+  +--------------------------------------------MERS-CoV  
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1             2            0.09611
+   2          PCoV            0.04829
+   2             3            0.01791
+   3          Bat             0.01321
+   3          SARS-CoV2       0.01029
+   1          SARS-CoV        0.14203
+   1          MERS-CoV        1.50267
+
+
+Data set # 90:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+     +PCoV      
+  +--3 
+  !  ! +SARS-CoV2 
+  !  +-2 
+  !    +Bat       
+  ! 
+  1---SARS-CoV  
+  ! 
+  +--------------------------------------------MERS-CoV  
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1             3            0.09719
+   3          PCoV            0.04372
+   3             2            0.00916
+   2          SARS-CoV2       0.02011
+   2          Bat             0.00827
+   1          SARS-CoV        0.12967
+   1          MERS-CoV        1.48258
+
+
+Data set # 91:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +---SARS-CoV  
+  ! 
+  !    +Bat       
+  !  +-3 
+  1--2 +SARS-CoV2 
+  !  ! 
+  !  +-PCoV      
+  ! 
+  +----------------------------------------MERS-CoV  
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          SARS-CoV        0.13705
+   1             2            0.08534
+   2             3            0.01167
+   3          Bat             0.01183
+   3          SARS-CoV2       0.01195
+   2          PCoV            0.04336
+   1          MERS-CoV        1.36928
+
+
+Data set # 92:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +---SARS-CoV  
+  ! 
+  !  +-PCoV      
+  1--3 
+  !  ! +Bat       
+  !  +-2 
+  !    +SARS-CoV2 
+  ! 
+  +-----------------------------------------MERS-CoV  
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          SARS-CoV        0.12823
+   1             3            0.10637
+   3          PCoV            0.05152
+   3             2            0.00769
+   2          Bat             0.00991
+   2          SARS-CoV2       0.01711
+   1          MERS-CoV        1.40648
+
+
+Data set # 93:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +--SARS-CoV  
+  ! 
+  !     +Bat       
+  !   +-3 
+  1---2 +SARS-CoV2 
+  !   ! 
+  !   +-PCoV      
+  ! 
+  +---------------------------------------------MERS-CoV  
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          SARS-CoV        0.10516
+   1             2            0.12987
+   2             3            0.00430
+   3          Bat             0.00782
+   3          SARS-CoV2       0.01610
+   2          PCoV            0.05456
+   1          MERS-CoV        1.54146
+
+
+Data set # 94:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+      +Bat       
+  +---3 
+  !   ! +SARS-CoV2 
+  !   +-2 
+  !     +-PCoV      
+  ! 
+  1---SARS-CoV  
+  ! 
+  +----------------------------------------------MERS-CoV  
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1             3            0.12573
+   3          Bat             0.01058
+   3             2            0.00211
+   2          SARS-CoV2       0.01362
+   2          PCoV            0.05530
+   1          SARS-CoV        0.12721
+   1          MERS-CoV        1.56247
+
+
+Data set # 95:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+     +-PCoV      
+  +--2 
+  !  ! +Bat       
+  !  +-3 
+  !    +SARS-CoV2 
+  ! 
+  1--SARS-CoV  
+  ! 
+  +----------------------------------------MERS-CoV  
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1             2            0.10458
+   2          PCoV            0.04843
+   2             3            0.01409
+   3          Bat             0.01202
+   3          SARS-CoV2       0.01336
+   1          SARS-CoV        0.09815
+   1          MERS-CoV        1.35975
+
+
+Data set # 96:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +----SARS-CoV  
+  ! 
+  ! +-PCoV      
+  1-3 
+  ! ! +SARS-CoV2 
+  ! +-2 
+  !   +Bat       
+  ! 
+  +-------------------------------------------MERS-CoV  
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          SARS-CoV        0.16133
+   1             3            0.06521
+   3          PCoV            0.04380
+   3             2            0.01879
+   2          SARS-CoV2       0.00958
+   2          Bat             0.01194
+   1          MERS-CoV        1.45162
+
+
+Data set # 97:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+      +PCoV      
+  +---3 
+  !   ! +SARS-CoV2 
+  !   +-2 
+  !     +Bat       
+  ! 
+  1---SARS-CoV  
+  ! 
+  +------------------------------------------------MERS-CoV  
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1             3            0.11217
+   3          PCoV            0.04570
+   3             2            0.00904
+   2          SARS-CoV2       0.01876
+   2          Bat             0.01103
+   1          SARS-CoV        0.11182
+   1          MERS-CoV        1.60972
+
+
+Data set # 98:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+     +-PCoV      
+  +--3 
+  !  ! +Bat       
+  !  +-2 
+  !    +SARS-CoV2 
+  ! 
+  1---SARS-CoV  
+  ! 
+  +--------------------------------------------MERS-CoV  
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1             3            0.08377
+   3          PCoV            0.04394
+   3             2            0.01595
+   2          Bat             0.00760
+   2          SARS-CoV2       0.01033
+   1          SARS-CoV        0.13091
+   1          MERS-CoV        1.50489
+
+
+Data set # 99:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +---SARS-CoV  
+  ! 
+  !  +-PCoV      
+  1--3 
+  !  ! +SARS-CoV2 
+  !  +-2 
+  !    +Bat       
+  ! 
+  +--------------------------------------------MERS-CoV  
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          SARS-CoV        0.12876
+   1             3            0.08763
+   3          PCoV            0.05030
+   3             2            0.01367
+   2          SARS-CoV2       0.01756
+   2          Bat             0.01073
+   1          MERS-CoV        1.49607
+
+
+Data set # 100:
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+     +-PCoV      
+  +--3 
+  !  ! +Bat       
+  !  +-2 
+  !    +SARS-CoV2 
+  ! 
+  1----SARS-CoV  
+  ! 
+  +------------------------------------------------MERS-CoV  
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1             3            0.09968
+   3          PCoV            0.06398
+   3             2            0.00515
+   2          Bat             0.01351
+   2          SARS-CoV2       0.01436
+   1          SARS-CoV        0.14434
+   1          MERS-CoV        1.61963
+
+

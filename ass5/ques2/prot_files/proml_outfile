@@ -1,0 +1,36 @@
+
+Amino acid sequence Maximum Likelihood method, version 3.697
+
+Jones-Taylor-Thornton model of amino acid change
+
+
+  +---SARS-CoV  
+  |  
+  |      +SARS-CoV2 
+  |   +--3  
+  1---2  +Bat       
+  |   |  
+  |   +PCoV      
+  |  
+  +---------------------------------------------MERS-CoV  
+
+
+remember: this is an unrooted tree!
+
+Ln Likelihood = -9129.80485
+
+ Between        And            Length      Approx. Confidence Limits
+ -------        ---            ------      ------- ---------- ------
+
+     1          MERS-CoV          1.51798     (  1.39176,     1.64421) **
+     1          SARS-CoV          0.13173     (  0.10342,     0.16003) **
+     1             2              0.11057     (  0.08291,     0.13825) **
+     2             3              0.02609     (  0.01522,     0.03696) **
+     3          SARS-CoV2         0.01501     (  0.00771,     0.02231) **
+     3          Bat               0.00920     (  0.00331,     0.01510) **
+     2          PCoV              0.04273     (  0.02983,     0.05561) **
+
+     *  = significantly positive, P < 0.05
+     ** = significantly positive, P < 0.01
+
+

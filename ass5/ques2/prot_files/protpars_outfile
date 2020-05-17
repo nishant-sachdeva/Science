@@ -1,0 +1,25 @@
+
+Protein parsimony algorithm, version 3.697
+
+
+
+One most parsimonious tree found:
+
+
+
+
+           +--SARS-CoV2 
+        +--4  
+     +--3  +--Bat       
+     !  !  
+  +--2  +-----PCoV      
+  !  !  
+  1  +--------SARS-CoV  
+  !  
+  +-----------MERS-CoV  
+
+  remember: this is an unrooted tree!
+
+
+requires a total of   2152.000
+

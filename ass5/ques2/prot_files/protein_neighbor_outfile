@@ -1,0 +1,35 @@
+
+   5 Populations
+
+Neighbor-Joining/UPGMA method version 3.697
+
+
+ Neighbor-joining method
+
+ Negative branch lengths allowed
+
+
+  +---SARS-CoV  
+  ! 
+  !   +-PCoV      
+  1---2 
+  !   ! +Bat       
+  !   +-3 
+  !     +SARS-CoV2 
+  ! 
+  +--------------------------------------------MERS-CoV  
+
+
+remember: this is an unrooted tree!
+
+Between        And            Length
+-------        ---            ------
+   1          SARS-CoV        0.12421
+   1             2            0.11043
+   2          PCoV            0.05055
+   2             3            0.01282
+   3          Bat             0.01033
+   3          SARS-CoV2       0.01261
+   1          MERS-CoV        1.49867
+
+
