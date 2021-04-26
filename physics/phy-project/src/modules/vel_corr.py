@@ -33,8 +33,6 @@ def vel_corr_func(set_of_frames):
 			plate2 = velocities[:, frame2, :]
 
 			# so , here we have two plates. We need to pick rows%3 == 0
-			plate1 = plate1[::3, :]
-			plate2 = plate2[::3, :]
 
 			vel_correlation = np.sum(np.multiply(plate1, plate2))
 
@@ -45,6 +43,8 @@ def vel_corr_func(set_of_frames):
 	correlation_list = [corr_values[k][0] / corr_values[k][1] for k in corr_values]
 	
 	plt.plot(correlation_list)
-	plt.show()	
-
+	plt.title("Velocity Correlation")
+	plt.savefig("graphs/vel_corr.png")
+	plt.show()
+	print("Vel corr is done")
 	return
